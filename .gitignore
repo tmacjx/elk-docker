@@ -1,0 +1,14 @@
+bin/
+target/
+*\.project
+*\.classpath
+*\.settings/
+\.settings/
+node_modules/
+test-output/
+.idea/
+*.iml
+*.ipr
+*.iws
+*\.pydevproject
+.DS_Store
